@@ -1,10 +1,8 @@
-## Pubkeys
+# Pubkeys
 
 In case you need
 
-#### Main key
-
------
+## Main key
 
 Import it, then set owner trust to "Ultimate", or sign it with your own key
 
